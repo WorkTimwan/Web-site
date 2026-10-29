@@ -1,0 +1,58 @@
+.wrapper{
+    max-width: 1500px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: orange;
+    height: auto;
+    padding-bottom: 1000px;
+}
+.main{
+    padding-left: 600px ;
+    color: azure;
+    font-size: x-large;
+}
+.fact1 {
+    position: absolute;
+    left: 50px;
+    max-width: 300px;
+    background-color: orangered;
+
+
+}
+.fact2{
+    padding-left: 25px;
+    padding-right: 25px;
+    max-width: 300px;
+    background-color: orangered;
+    position: absolute;
+    top: 170px;
+    left: 550px;
+}
+.fact3{
+    padding-left: 25px;
+    padding-right: 25px;
+    max-width: 300px;
+    background-color: orangered;
+    position: absolute;
+    top: 170px;
+    left: 1000px;
+}
+.p{
+    position: absolute;
+    top: 600px;
+    left: 700px;
+
+
+}
+.fox{
+    position: absolute;
+    left: 570px;
+    margin-top: 500px;
+
+}
+.please{
+    position: absolute;
+    margin-top: 900px;
+    left: 600px;
+
+}
