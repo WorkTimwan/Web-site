@@ -13,7 +13,7 @@
 }
 .fact1 {
     position: absolute;
-    left: 50px;
+    left: 300px;
     max-width: 300px;
     background-color: orangered;
 
@@ -26,7 +26,7 @@
     background-color: orangered;
     position: absolute;
     top: 170px;
-    left: 550px;
+    left: 800px;
 }
 .fact3{
     padding-left: 25px;
@@ -35,7 +35,7 @@
     background-color: orangered;
     position: absolute;
     top: 170px;
-    left: 1000px;
+    left: 1300px;
 }
 .p{
     position: absolute;
